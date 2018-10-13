@@ -39,7 +39,13 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.Consumer;
 import io.reactivex.functions.Function;
 import io.reactivex.schedulers.Schedulers;
-
+/***
+ *
+ *
+ *
+ * hhhhhh
+ *
+ * */
 public class MainActivity extends Activity {
     public final static String MCU_MSG_CAN_ALL_INFO = "com.choiceway.eventcenter.EventUtils.MCU_MSG_CAN_ALL_INFO";
     public final static String CAR_AIR_DATA = "EventUtils.CAR_AIR_DATA";
